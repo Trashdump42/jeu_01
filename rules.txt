@@ -1,0 +1,28 @@
+#Objectifs
+Récupérer un max de récup, tous les trucs sont pas aussi stylés
+        (navet =2pt  /banane = 1pt / caviar = 0.5 pt / fraise=5pts / fond de meule degorgonzola = 15pts
+          Pitchs chocolat (fraise -10 pt) / choux 2pt /
+-> puis les ramener à bon port pour une cantine ( faire un systement de quète: recettes ?)
+
+#Batons dans les roues:
+alarmes(durée de présence dans la benne  /vigile (monstre qui bouge, peu de dégats mais fait pop des keufs)
+keufs qui rodent sur le chemin (mettent des dégats si touchent)
+
+#systeme de niveau
+vitesse du vigile & rapidité detection de l'alarme
+
+#systement de bonus
+vitesse de course
+double saut
+s'accrocher / grimper aux murs
+coupe-boulon pour les grilles (créer raccourcis)
+ ...
+
+ Inventaire : stocker les légumes & des objets qu'on peut lancer :
+    - dans une marmite pour gagner des points (victoire au nombre de points)
+    -ou sur des keufs pour les ralentir + dégats (légume = 1 dégat, bouteille=
+
+
+
+
+  # la bouuffe:
